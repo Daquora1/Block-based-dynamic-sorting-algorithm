@@ -1,9 +1,4 @@
 # Block-based-dynamic-sorting-algorithm
-
-Got it 👍
-Below is **clean, copy-pasteable plain text**, no fancy formatting, no markdown tricks.
-At the very end, I include **the full Python code**, also copy-paste ready.
-
 ---
 
 Block-based dynamic sorting algorithm
